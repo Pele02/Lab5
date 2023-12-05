@@ -20,5 +20,4 @@ class CalculatorTest {
         Calculator c=new Calculator(3,7);
         assertFalse(c.suma()!=10);
     }
-
 }

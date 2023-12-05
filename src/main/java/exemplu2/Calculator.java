@@ -8,6 +8,7 @@ public class Calculator {
         this.a = a;
         this.b = b;
     }
+
     public int suma() {
         return a + b;
     }
